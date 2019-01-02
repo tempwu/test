@@ -12,7 +12,7 @@ namespace GitDemo.Controllers
     {
         public IActionResult Index()
         {
-            return View("this is test 01021910");
+            return View("this is test 01021912");
         }
 
         public IActionResult Privacy()
